@@ -1,0 +1,33 @@
+.container {
+  margin-top: 50px;
+  
+}
+.purchase-card {
+  width: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+}
+.purchase-card > show.container {
+  padding-bottom: 1.5em;
+}
+.item-details-button:focus {
+  outline: none;
+}
+.media {
+  background-color: rgb(216, 216, 216);
+}
+.price-strike {
+  text-decoration-line: line-through;
+  color: gray;
+}
+.media-body {
+  margin-top: 5px;
+  margin: 5px;
+}
+.form {
+  background-color: rgb(216, 216, 216);
+}
+.Navigbar{
+  margin-top: 0px;
+
+}
